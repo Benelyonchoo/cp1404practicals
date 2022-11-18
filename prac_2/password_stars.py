@@ -31,4 +31,5 @@ def print_asterisks(sequence):
     """print the sequence."""
     print('*' * len(sequence))
 
+
 main()
