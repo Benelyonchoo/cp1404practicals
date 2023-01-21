@@ -1,0 +1,5 @@
+1. Regarding the estimates that I did for practical tasks, my accuracy was high, and it did improve during the course of the subject as I gained more experience and knowledge.
+
+2. Regarding code reviews, I have learned that they are an important tool for ensuring the quality of the code and for identifying potential issues. Both being reviewed and doing reviews have taught me to think more critically about my own code and to be more attentive to detail.
+
+3. Regarding the practical tasks overall, if I were in charge of the subject, I would focus on providing more opportunities for hands-on practice and real-world application of the material. This could include more projects, case studies, or guest lectures from industry experts. Additionally, I would encourage more collaboration and peer feedback, as this can be extremely valuable for improving one's skills and understanding of the subject matter.
